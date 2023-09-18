@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatema-khanom&label=Profile%20views&color=0e75b6&style=flat" alt="fatema-khanom" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@fatemaurmi06" target="blank"><img src="https://img.shields.io/twitter/follow/@fatemaurmi06?logo=twitter&style=for-the-badge" alt="@fatemaurmi06" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fatemaurmi06" target="blank"><img src="https://img.shields.io/twitter/follow/fatemaurmi06?logo=twitter&style=for-the-badge" alt="fatemaurmi06" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
