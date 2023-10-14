@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **C, C++,Html,CSS,JS**
+- :)Fun fact **I am a programmer, i have no life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
